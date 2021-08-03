@@ -1,4 +1,4 @@
-# -Neural-Networks
+# Neural-Networks
 xmu NNcourse
 
 很水的一个项目
