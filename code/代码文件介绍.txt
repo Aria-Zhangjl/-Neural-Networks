@@ -1,0 +1,33 @@
+功能函数：
+Softmax  硬极限函数
+ReLU  ReLU函数
+Conv   卷积
+Pool 池化
+loadMNISTImages 导入对应路径数据集的图片
+loadMNISTLabels   导入对应路径数据集的标签
+
+
+训练函数：
+Train_Mnist1 第一个神经网络的训练函数
+Train_Mnist2  第二个神经网络的训练函数
+Train_Mnist3 第三个神经网络的训练函数
+
+测试函数：
+TestMnist1 第一个神经网络没有交叉验证
+TestMnist1_cross 第一个神经网络有交叉验证
+TestMinst2.m 第二个神经网络没有交叉验证
+TestMnist2_cross.m  第二个神经网络交叉验证的测试函数
+TestMnist3.m  第三个神经网络没有交叉验证的测试函数
+TestMnist3_cross.m  第三个神经网络交叉验证的测试函数
+show_Mnist.m  现场展示三个神经网络模型分类结果
+
+数据：
+Cross_weight1.mat 第一个神经网络交叉验证的初始化权重
+Cross_weight2.mat 第二个神经网络交叉验证的初始化权重
+Cross_weight3.mat 第三个神经网络交叉验证的初始化权重
+show1.mat  训练完成的第一个神经网络模型
+show2.mat  训练完成的第二个神经网络模型
+show3.mat  训练完成的第三个神经网络模型
+
+测试图片：
+test_figure.fig  测试三个神经网络模型的测试图片
